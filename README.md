@@ -7,7 +7,7 @@
 ## Recommended
 [Just Enough Calculation](https://github.com/GTNewHorizons/JustEnoughCalculation/releases/latest)
 
-[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/2627303)
+[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/all?page=1&pageSize=20&version=1.7.10)
 
 [Extreme Sound Muffler: Legacy](https://github.com/Lyfts/ExtremeSoundMuffler-Legacy/releases/latest)
 

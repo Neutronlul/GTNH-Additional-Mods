@@ -11,6 +11,4 @@
 
 [Extreme Sound Muffler: Legacy](https://github.com/Lyfts/ExtremeSoundMuffler-Legacy/releases/latest)
 
-[WorldEdit](https://github.com/GTNewHorizons/worldedit-gtnh/releases/latest)
-
 [WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition/files/all?page=1&pageSize=20&version=1.7.10)

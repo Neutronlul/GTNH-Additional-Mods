@@ -2,9 +2,9 @@
 ### [GTNH Wiki Page](https://wiki.gtnewhorizons.com/wiki/Additional_Mods)
 
 ## Required
-[Shared Prospecting](https://github.com/Lyfts/SharedProspecting/releases/tag/2.0.3)
+[Shared Prospecting](https://github.com/Lyfts/SharedProspecting/releases/latest)
 
-[Gregtorio Overlays](https://github.com/ah-OOG-ah/GregtorioOverlays/releases/tag/1.1.1)
+[Gregtorio Overlays](https://github.com/ah-OOG-ah/GregtorioOverlays/releases/latest)
 
 ## Recommended
 [Just Enough Calculation](https://github.com/GTNewHorizons/JustEnoughCalculation/releases/latest)

@@ -6,6 +6,8 @@
 
 [Gregtorio Overlays](https://github.com/ah-OOG-ah/GregtorioOverlays/releases/latest)
 
+[WorldEdit](https://github.com/GTNewHorizons/worldedit-gtnh/releases/latest)
+
 ## Recommended
 [Just Enough Calculation](https://github.com/GTNewHorizons/JustEnoughCalculation/releases/latest)
 

@@ -32,6 +32,18 @@
 
 [WorldEdit](https://github.com/GTNewHorizons/worldedit-gtnh/releases/tag/v0.0.8)
 
+### Docker Compose
+```yaml
+services:
+  server:
+    ...
+    environment:
+      MODS: |
+        https://github.com/Lyfts/SharedProspecting/releases/download/2.0.4/sharedprospecting-2.0.4.jar
+        https://github.com/ah-OOG-ah/GregtorioOverlays/releases/download/1.1.2/goverlays-1.1.2.jar
+        https://github.com/GTNewHorizons/worldedit-gtnh/releases/download/v0.0.8/worldedit-v0.0.8.jar
+
+```
 
 # Resource packs
 ### [GTNH Wiki Page](https://wiki.gtnewhorizons.com/wiki/Resource_Packs)
